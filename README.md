@@ -1,5 +1,7 @@
-# ParsingJsonOkhttp3
+# Json Parsing Okhttp3
 
-clean code and efisien code to parsing json with okhttp3
+Clean code.
 
-This code uses mvp pattren
+This code uses #mvp pattren.
+
+#Expert code OOP
