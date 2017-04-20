@@ -2,6 +2,6 @@
 
 Clean code.
 
-This code uses #mvp pattren.
+This code uses #architectural mvp pattren.
 
 #Expert code OOP
